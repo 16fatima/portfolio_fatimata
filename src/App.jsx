@@ -232,7 +232,9 @@ export default function Portfolio() {
             <div className="bg-white/80 backdrop-blur-xl rounded-[2rem] p-8 shadow-lg border border-white">
               <div className="w-32 h-32 rounded-full bg-gradient-to-br from-[#8ecad3] to-[#7b4b35] text-white flex items-center justify-center text-4xl font-black mx-auto mb-6 shadow-xl">
                 FD
-              
+              </div>
+              <div className="space-y-4 text-sm">
+                
                 <div className="p-4 rounded-2xl bg-[#f7efe8]">
                   <p className="text-slate-500">Localisation</p>
                   <p className="font-bold"> • Mobile sur toute la France</p>
