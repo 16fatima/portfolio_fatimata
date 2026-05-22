@@ -234,7 +234,10 @@ export default function Portfolio() {
                 FD
               </div>
               <div className="space-y-4 text-sm">
-                
+                <div className="p-4 rounded-2xl bg-[#eef7f8]">
+                  <p className="text-slate-500"></p>
+                  <p className="font-bold"> Data Science / IA </p>
+                </div>
                 <div className="p-4 rounded-2xl bg-[#f7efe8]">
                   <p className="text-slate-500">Localisation</p>
                   <p className="font-bold"> • Mobile sur toute la France</p>
